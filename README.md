@@ -1,3 +1,8 @@
+## Aula do dia 25/07/2021
+[cell.html](basic/cell.html)<br>
+[earthquakes.html](basic/earthquakes.html)<br>
+[usa.html](basic/usa.html)<br>
+
 ## Aula do dia 16/06/2021
 
 [index01.html](basic/index01.html)<br>
